@@ -68,6 +68,9 @@ li:nth-child(5) {
   margin-bottom: 0;
   border-radius: 0 0 10px 10px;
 }
+.fas {
+  transition: all ease-in-out 0.5s;
+}
 
 .rotate {
   transform: rotate(180deg);
